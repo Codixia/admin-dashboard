@@ -6,19 +6,19 @@
 - [Tailwind CSS](https://tailwindcss.com/)
 
 ## Features
-- Authentication
-- Dashboard
-- User Management
-- Role Management
-- Permission Management
-- Settings
+- Authentication with differents roles
+- Modular dashboard
+- User management
+- Role/Groups management
+- Permission management
+- Settings for differents roles
 
 ## How to participate
 - Fork the repository
 - Create a new branch
-- Add your feature
+- Add your feature or fix
 - Create a pull request
-- Wait for approval
+- Wait for approval by authors
 - Merge your feature
 
 ## Installation
@@ -31,3 +31,4 @@
 
 ## Author
 - [Nhexen](https://github.com/Nhexen)
+- [Codixia](https://github.com/Codixia)
